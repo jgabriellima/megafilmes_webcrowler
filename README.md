@@ -1,2 +1,2 @@
-# megafilmes_webcrowler
-Webcrowler para obter filmes a partir do megafilmeshd.net
+# MegaFilmesDH Webcrowler
+Webcrowler for get all videos on MegafilmesHD

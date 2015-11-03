@@ -1,0 +1,25 @@
+{
+  "name": "MegaFilmesHD Webcrowler :: Curso 'Full-stack mobile developer' Ionic Framework",
+  "private": true,
+  "version": "0.0.1",
+  "description": "webcrowler for get any videos on MegaFilmesHD",
+  "keywords": [],
+  "dependencies": {
+    "zombie": "4.0.8",
+    "cheerio": "*",
+    "nedb": "*",
+    "request": "*",
+    "simple-ssh": "*",
+    "ssh2": "*",
+    "request":"*"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "jgabriellima",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-packager": "^5.0.1"
+  }
+}
